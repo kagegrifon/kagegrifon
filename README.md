@@ -1,6 +1,3 @@
-## Григорий Вейнин
-
-
 <details>
 <summary><b>English version</b></summary>
 
@@ -54,6 +51,8 @@ assessment, code review, pet projects. Several mentees have landed jobs.
 [Telegram](https://t.me/kagegrifon) · kage.grifon@yandex.ru
 
 </details>
+
+## Григорий Вейнин
 
 Фронтенд-разработчик и лид. ~6 лет в коммерческой разработке.
 React · TypeScript · Node.js. Готов к удалённой работе.
@@ -110,8 +109,8 @@ merge-request, стабилизировал код-ревью и оценку з
 |---|---|---|
 | [skia-pixi-test-task](https://github.com/kagegrifon/skia-pixi-test-task) | Рендер сцены Pixi через собственную wasm-сборку Skia с экспортом в **векторный PDF** ([демо](https://kagegrifon.github.io/skia-pixi-test-task/)) | TypeScript, React, Pixi, CanvasKit/Skia (wasm) |
 | [quiz-train](https://github.com/kagegrifon/quiz-train) | Приложение для тренировочных квизов: режимы проверки, частичное оценивание, история попыток ([демо](https://kagegrifon.github.io/quiz-train/)) | React 19, TanStack Router, FSD, Playwright |
-| [sudoku-pwa](https://github.com/kagegrifon/sudoku-pwa) | Оффлайн-судоку со статистикой, PWA ([demo](https://kagegrifon.github.io/sudoku/)) | React 18, TypeScript, Vite |
-| [drone-protocol](https://github.com/kagegrifon/drone-protocol) | [В разработке] Игра про программирование роботов; проект с GDD, ADR-решениями и описанием архитектуры ([demo](https://kagegrifon.github.io/drone-protocol/)) | TypeScript, React, Playwright |
+| [sudoku-pwa](https://github.com/kagegrifon/sudoku-pwa) | Оффлайн-судоку со статистикой, PWA ([демо](https://kagegrifon.github.io/sudoku/)) | React 18, TypeScript, Vite |
+| [drone-protocol](https://github.com/kagegrifon/drone-protocol) | [В разработке] Игра про программирование роботов; проект с GDD, ADR-решениями и описанием архитектуры ([демо](https://kagegrifon.github.io/drone-protocol/)) | TypeScript, React, Playwright |
 
 ---
 
