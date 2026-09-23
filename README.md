@@ -6,7 +6,7 @@
 
 ## Grigorii Veinin
 
-Frontend developer and team lead. ~6 years of commercial development, ~3 of them leading teams.
+Frontend developer and team lead. ~6 years of commercial development.
 React · TypeScript · Node.js. Open to remote work.
 
 I focus on products that need to be built from zero and handed to a functioning team:
@@ -55,7 +55,7 @@ assessment, code review, pet projects. Several mentees have landed jobs.
 
 </details>
 
-Фронтенд-разработчик и лид. ~6 лет в коммерческой разработке, из них около 3 лет — в роли лида команды.
+Фронтенд-разработчик и лид. ~6 лет в коммерческой разработке.
 React · TypeScript · Node.js. Готов к удалённой работе.
 
 Специализируюсь на продуктах, которые нужно построить с нуля и довести до
